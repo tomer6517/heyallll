@@ -1,1 +1,1 @@
-alert(1);
+</span>alert(1);
